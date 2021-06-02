@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "herowebpage0ed61e26": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
